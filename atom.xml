@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[IfanZero]]></title>
-  <link href="https://ifanzero.github.io/atom.xml" rel="self"/>
-  <link href="https://ifanzero.github.io/"/>
-  <updated>2021-04-16T11:27:31+08:00</updated>
-  <id>https://ifanzero.github.io/</id>
+  <link href="http://blog.ifanzero.top/atom.xml" rel="self"/>
+  <link href="http://blog.ifanzero.top/"/>
+  <updated>2021-04-16T14:24:25+08:00</updated>
+  <id>http://blog.ifanzero.top/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -13,10 +13,30 @@
   <generator uri="http://www.mweb.im/">MWeb</generator>
   
   <entry>
+    <title type="html"><![CDATA[这只是测试一下]]></title>
+    <link href="http://blog.ifanzero.top/16185542135428.html"/>
+    <updated>2021-04-16T14:23:33+08:00</updated>
+    <id>http://blog.ifanzero.top/16185542135428.html</id>
+    <content type="html"><![CDATA[
+<ol>
+<li>d </li>
+<li>d</li>
+<li>d</li>
+<li>d</li>
+</ol>
+
+<blockquote>
+<p>d ddd</p>
+</blockquote>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[欢迎使用 MWeb]]></title>
-    <link href="https://ifanzero.github.io/16182987499012.html"/>
+    <link href="http://blog.ifanzero.top/16182987499012.html"/>
     <updated>2021-04-13T15:25:49+08:00</updated>
-    <id>https://ifanzero.github.io/16182987499012.html</id>
+    <id>http://blog.ifanzero.top/16182987499012.html</id>
     <content type="html"><![CDATA[
 <p>MWeb 是专业的 Markdown 写作、记笔记、静态博客生成软件，目前已支持 Mac，iPad 和 iPhone。MWeb 有以下特色：</p>
 
